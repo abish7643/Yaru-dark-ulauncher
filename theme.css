@@ -9,18 +9,18 @@
 /**
  * Input
  */
-@define-color selected_bg_color #92354B;
-@define-color selected_fg_color #e6e6e6;
-@define-color input_color #e6e6e6;
+@define-color selected_bg_color rgba(233, 84, 32, 0.9);
+@define-color selected_fg_color #fafafa;
+@define-color input_color #fafafa;
 @define-color caret_color darker(@input_color);
 
 /**
  * Result items
  */
-@define-color item_name #e6e6e6;
-@define-color item_text #e6e6e6;
+@define-color item_name #fafafa;
+@define-color item_text #fafafa;
 @define-color item_box_selected @selected_bg_color;
-@define-color item_text_selected #e6e6e6;
+@define-color item_text_selected #fafafa;
 @define-color item_name_selected #fff;
 @define-color item_shortcut_color #fff;
 @define-color item_shortcut_shadow darker(@bg_color);
