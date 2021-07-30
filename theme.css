@@ -9,7 +9,7 @@
 /**
  * Input
  */
-@define-color selected_bg_color rgba(233, 84, 32, 0.9);
+@define-color selected_bg_color #a6401c;
 @define-color selected_fg_color #fafafa;
 @define-color input_color #fafafa;
 @define-color caret_color darker(@input_color);
